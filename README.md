@@ -13,14 +13,13 @@
  
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="naver.com@gmail.com">
+    <a href="zoon1031@naver.com">
         <img src="https://img.shields.io/badge/naver-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
     
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
     <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white"> 
     <br>
