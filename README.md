@@ -9,14 +9,6 @@
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
 </div><br>
-
- 
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="zoon1031@naver.com">
-        <img src="https://img.shields.io/badge/naver-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div><br>
     
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:row;">
