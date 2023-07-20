@@ -1,6 +1,6 @@
-<div align="left">
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=JUNYONG's%20GitHub&fontSize=70&animation=scaleIn
 
-## 💻 DEV's log 💻
+## 💻 DEV'S LOG 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https:/zoon-bloom.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
